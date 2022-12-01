@@ -1,6 +1,6 @@
-| ![Benign](../../_static/images/benign-room-banner.png)
+| ![Investigating with ELK 101](../../_static/images/benign-room-banner.png)
 |:--:|
-| [THM Room: Benign](https://tryhackme.com/room/investigatingwithelk101) |
+| [THM Room: Investigating with ELK 101](https://tryhackme.com/room/investigatingwithelk101) |
 
 # Introduction
 
@@ -10,7 +10,7 @@ Investigating host-centric logs.
 
 ## Why?
 
-to find suspicious process execution
+To find suspicious process execution.
 
 ## How?
 

@@ -1,16 +1,16 @@
-| ![Benign](../../_static/images/benign-room-banner.png)
+| ![Incident handling with Splunk](../../_static/images/benign-room-banner.png)
 |:--:|
-| [THM Room: Benign](https://tryhackme.com/room/benign) |
+| [THM Room: Incident handling with Splunk](https://tryhackme.com/room/splunk201) |
 
 # Introduction
 
 ## What?
 
-Investigating host-centric logs.
+Incident handling.
 
 ## Why?
 
-to find suspicious process execution
+Stop/defend/prevent against the attack in a better way.
 
 ## How?
 

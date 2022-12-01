@@ -10,7 +10,7 @@ Investigating host-centric logs.
 
 ## Why?
 
-to find suspicious process execution
+To find suspicious process execution
 
 ## How?
 

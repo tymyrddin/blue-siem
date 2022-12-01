@@ -1,16 +1,16 @@
-| ![Benign](../../_static/images/benign-room-banner.png)
+| ![ItsyBitsy](../../_static/images/itsybitsy-room-banner.png)
 |:--:|
-| [THM Room: Benign](https://tryhackme.com/room/benign) |
+| [THM Room: ItsyBitsy](https://tryhackme.com/room/itsybitsy) |
 
 # Introduction
 
 ## What?
 
-Investigating host-centric logs.
+Investigating an alert by IDS regarding a potential C2 communication.
 
 ## Why?
 
-to find suspicious process execution
+To find compromise.
 
 ## How?
 

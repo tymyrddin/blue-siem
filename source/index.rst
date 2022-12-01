@@ -63,6 +63,14 @@ SIEM and search queries to look for specific answers from the ingested logs.
    docs/bots/400.md
 
 .. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Benign
+
+   docs/benign/README.md
+
+.. toctree::
    :caption: Links
 
    Blue Team <https://tymyrddin.github.io/blue/>

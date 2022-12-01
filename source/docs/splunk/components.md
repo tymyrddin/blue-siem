@@ -6,10 +6,10 @@ Splunk forwarder is a lightweight agent installed on the endpoint intended to be
 collect the data and send it to the Splunk instance. It does not affect the endpoint's performance as it takes very 
 few resources to process. Some key data sources are:
 
-    Web server generating web traffic.
-    Windows machine generating Windows Event Logs, PowerShell, and Sysmon data.
-    Linux host generating host-centric logs.
-    Database generating DB connection requests, responses, and errors.
+* Web server generating web traffic.
+* Windows machine generating Windows Event Logs, PowerShell, and Sysmon data.
+* Linux host generating host-centric logs.
+* Database generating DB connection requests, responses, and errors.
 
 ## Splunk indexer
 

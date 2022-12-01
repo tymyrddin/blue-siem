@@ -1,16 +1,16 @@
-| ![Benign](../../_static/images/benign-room-banner.png)
+| ![Investigating with Splunk](../../_static/images/benign-room-banner.png)
 |:--:|
-| [THM Room: Benign](https://tryhackme.com/room/benign) |
+| [THM Room: Investigating with Splunk](https://tryhackme.com/room/investigatingwithsplunk) |
 
 # Introduction
 
 ## What?
 
-Investigating host-centric logs.
+Investigating the logs.
 
 ## Why?
 
-to find suspicious process execution
+Identify anomalies.
 
 ## How?
 
