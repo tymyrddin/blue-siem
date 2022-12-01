@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac custom attributes file (Desktop Service Store)
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# Instance Folder - used for run-time files
+instance/*.cfg
+instance/*.db
+instance/*.log
+instance/*.log*
+
+# Log Files
+instance/logs/
+*.log
+
+# Coverage output
+.coverage
+htmlcov/
+
+# Virtual Environment
+/venv/
+
+# pytest files
+.pytest_cache/
+
+# Not the static site, will be generated on push
+build/
