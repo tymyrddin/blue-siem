@@ -1,6 +1,6 @@
 | ![Benign](../../_static/images/benign-room-banner.png)
 |:--:|
-| [THM Room: Benign](https://tryhackme.com/room/benign) |
+| [THM Room: Benign](https://tryhackme.com/room/investigatingwithelk101) |
 
 # Introduction
 

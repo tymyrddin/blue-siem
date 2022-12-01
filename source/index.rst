@@ -10,12 +10,44 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :glob:
    :maxdepth: 1
    :includehidden:
+   :caption: ELK
+
+   docs/elk/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: ItsyBitsy
+
+   docs/itsybitsy/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
    :caption: Splunk basics
 
    docs/splunk/README.md
    docs/splunk/components.md
    docs/splunk/navigation.md
    docs/splunk/data.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Incident handling
+
+   docs/incidents/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Investigations
+
+   docs/investigations/README.md
 
 .. toctree::
    :glob:
