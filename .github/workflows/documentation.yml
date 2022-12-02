@@ -1,4 +1,4 @@
-name: Publish blue-siem using Sphinx
+name: Publish Siem using Sphinx
 
 on:
   push:
