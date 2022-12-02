@@ -31,17 +31,26 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Incident handling
+   :caption: Splunk incident handling
 
-   docs/incidents/README.md
+   docs/incident/README.md
+   docs/incident/scenario.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Investigations
+   :caption: Splunk investigation
 
-   docs/investigations/README.md
+   docs/investigation/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Benign
+
+   docs/benign/README.md
 
 .. toctree::
    :glob:
@@ -55,14 +64,6 @@ SIEM and search queries to look for specific answers from the ingested logs.
    docs/bots/200.md
    docs/bots/300.md
    docs/bots/400.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Benign
-
-   docs/benign/README.md
 
 .. toctree::
    :caption: Links
