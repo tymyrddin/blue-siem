@@ -13,14 +13,8 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :caption: ELK
 
    docs/elk/README.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: ItsyBitsy
-
-   docs/itsybitsy/README.md
+   docs/elk/stack.md
+   docs/elk/itsybitsy.md
 
 .. toctree::
    :glob:

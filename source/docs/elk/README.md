@@ -6,12 +6,15 @@
 
 ## What?
 
-Investigating host-centric logs.
+Investigating VPN logs.
 
 ## Why?
 
-To find suspicious process execution.
+To identify anomalies.
 
 ## How?
+
+* [Elastic stack](stack.md)
+* [ItsyBitsy](itsybitsy.md)
 
 
