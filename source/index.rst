@@ -36,6 +36,12 @@ SIEM and search queries to look for specific answers from the ingested logs.
    docs/incident/README.md
    docs/incident/scenario.md
    docs/incident/recon.md
+   docs/incident/exploit.md
+   docs/incident/install.md
+   docs/incident/objectives.md
+   docs/incident/c2.md
+   docs/incident/weaponise.md
+   docs/incident/deliver.md
 
 .. toctree::
    :glob:
