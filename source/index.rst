@@ -47,17 +47,11 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Splunk investigation
+   :caption: Challenges
 
-   docs/investigation/README.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Benign
-
-   docs/benign/README.md
+   docs/challenges/README.md
+   docs/challenges/investigation.md
+   docs/challenges/benign.md
 
 .. toctree::
    :glob:
