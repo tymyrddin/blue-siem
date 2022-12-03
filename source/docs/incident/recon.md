@@ -21,6 +21,9 @@ Add `alert` fields and use:
 |:--:|
 | `CVE-2014-6271` |
 
+See [CVE-2014-6271 Detail](https://nvd.nist.gov/vuln/detail/CVE-2014-6271), basically, 
+[ShellShock](https://www.yeahhub.com/shellshock-vulnerability-exploitation-metasploit-framework/).
+
 **What is the CMS our web server is using?**
 
     index=botsv1 imreallynotbatman.com sourcetype=stream:http
