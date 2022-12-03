@@ -35,6 +35,7 @@ SIEM and search queries to look for specific answers from the ingested logs.
 
    docs/incident/README.md
    docs/incident/scenario.md
+   docs/incident/recon.md
 
 .. toctree::
    :glob:

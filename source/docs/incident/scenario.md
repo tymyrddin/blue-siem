@@ -13,7 +13,20 @@ root cause and all the attackers' activities within their network.
 
 The good thing is, that they have Splunk already in place, so we have got all the event logs related to the attacker's 
 activities captured. We need to explore the records and find how the attack got into their network and what actions 
-they performed. Logs are being ingested from `webserver/firewall/Suricata/Sysmon` etc.
+they performed.
+
+Log sources available to us: 
+
+* `wineventlog` (Windows Event logs)
+* `winRegistry` (logs related to registry creation/modification/deletion etc.)
+* `XmlWinEventLog` (sysmon event logs)
+* `fortigate_utm` (Fortinet Firewall logs)
+* `iis` (IIS web server logs)
+* `Nessus:scan` (results from the Nessus vulnerability scanner)  
+* `Suricata` (details of the alerts from the Suricata IDS)
+* `stream:http` (network flow related to http traffic)
+* `stream: DNS` (network flow related to DNS traffic)
+* `stream:icmp` (network flow related to icmp traffic)
 
 ## Cyber Kill Chain
 
