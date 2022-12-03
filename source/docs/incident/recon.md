@@ -44,4 +44,5 @@ See [CVE-2014-6271 Detail](https://nvd.nist.gov/vuln/detail/CVE-2014-6271), basi
 |:--:|
 | `192.168.250.70` |
 
-.
+
+
