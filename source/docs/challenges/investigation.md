@@ -1,1 +1,1 @@
-# Investigation with splunk
+# Investigating with Splunk

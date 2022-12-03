@@ -14,7 +14,7 @@ Practice.
 
 ## How?
 
-* [Investigation with splunk](investigation.md)
+* [Investigating with splunk](investigation.md)
 * [Benign](benign.md)
 
 
