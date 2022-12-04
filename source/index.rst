@@ -1,9 +1,6 @@
 Security information and event management
 =====================================================================
 
-.. image:: _static/images/in-progress.png
-  :alt: In progress
-
 SIEM and search queries to look for specific answers from the ingested logs.
 
 .. toctree::

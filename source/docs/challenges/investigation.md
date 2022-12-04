@@ -5,6 +5,8 @@ adversary has access to some of these machines and successfully created some bac
 to pull those logs from suspected hosts and ingest them into Splunk for quick investigation. Our task as SOC Analyst 
 is to examine the logs and identify the anomalies. 
 
+## Questions
+
 **How many events were collected and Ingested in the index main?**
 
 | ![number of events](../../_static/images/splunk-inv1.png)
