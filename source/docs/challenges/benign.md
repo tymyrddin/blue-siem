@@ -31,40 +31,40 @@ Marketing department:
 
 **How many logs are ingested from the month of March?**
 
-Answer: ``
+Answer: `13959`
 
 **Imposter Alert: There seems to be an imposter account observed in the logs, what is the name of that user?**
 
-Answer: ``
+Answer: `Amel1a`
 
 **Which user from the HR department was observed to be running scheduled tasks?**
 
-Answer: ``
+Answer: `Chris.fort`
 
 **Which user from the HR department executed a system process (LOLBIN) to download a payload from a file-sharing host.**
 
-Answer: ``
+Answer: `haroon`
 
 **To bypass the security controls, which system process (lolbin) was used to download a payload from the internet?**
 
-Answer: ``
+Answer: `certutil.exe`
 
 **What was the date that this binary was executed by the infected host? format (YYYY-MM-DD)**
 
-Answer: ``
+Answer: `2022-03-04`
 
 **Which third-party site was accessed to download the malicious payload?**
 
-Answer: ``
+Answer: `controlc.com`
 
 **What is the name of the file that was saved on the host machine from the C2 server during the post-exploitation phase?**
 
-Answer: ``
+Answer: `benign.exe`
 
 **The suspicious file downloaded from the C2 server contained malicious content with the pattern THM{..........}; what is that pattern?**
 
-Answer: ``
+Answer: `THM{KJ&*H^B0}`
 
 **What is the URL that the infected host connected to?**
 
-Answer: ``
+Answer: `https://controlc.com/548ab556`
