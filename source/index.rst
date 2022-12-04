@@ -54,7 +54,7 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Boss of the SOC
+   :caption: Boss of the SOC v2
 
    docs/bots/README.md
    docs/bots/data.md
