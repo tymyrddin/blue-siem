@@ -14,6 +14,7 @@ Practice.
 
 ## How?
 
+* [ItsyBitsy](itsybitsy.md)
 * [Investigating with Splunk](investigation.md)
 * [Benign](benign.md)
 

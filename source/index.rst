@@ -11,7 +11,6 @@ SIEM and search queries to look for specific answers from the ingested logs.
 
    docs/elk/README.md
    docs/elk/stack.md
-   docs/elk/itsybitsy.md
 
 .. toctree::
    :glob:
@@ -47,6 +46,7 @@ SIEM and search queries to look for specific answers from the ingested logs.
    :caption: Challenges
 
    docs/challenges/README.md
+   docs/challenges/itsybitsy.md
    docs/challenges/investigation.md
    docs/challenges/benign.md
 

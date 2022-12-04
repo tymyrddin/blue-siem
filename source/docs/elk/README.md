@@ -15,6 +15,5 @@ To identify anomalies.
 ## How?
 
 * [Elastic stack](stack.md)
-* [ItsyBitsy](itsybitsy.md)
 
 
