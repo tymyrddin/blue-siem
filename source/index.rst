@@ -66,4 +66,4 @@ SIEM and search queries to look for specific answers from the ingested logs.
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
