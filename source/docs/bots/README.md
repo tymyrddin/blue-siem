@@ -1,4 +1,4 @@
-| ![Splunk Boss of the SOC](../../_static/images/splunk2-room-banner.png)
+| ![Splunk Boss of the SOC](../../_static/images/splunk2-room-banner.png) |
 |:--:|
 | [THM Room: BOTSv2](https://tryhackme.com/room/splunk2gcd5) |
 

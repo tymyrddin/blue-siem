@@ -1,4 +1,4 @@
-| ![Investigating with Splunk](../../_static/images/benign-room-banner.png)
+| ![Investigating with Splunk](../../_static/images/benign-room-banner.png) |
 |:--:|
 | Challenges |
 

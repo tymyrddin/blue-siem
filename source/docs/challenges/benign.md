@@ -1,7 +1,5 @@
 # Benign
 
-
-
 One of the client’s IDS indicated a potentially suspicious process execution indicating one of the hosts from the 
 HR department was compromised. Some tools related to network information gathering/scheduled tasks were executed 
 which confirmed the suspicion. Due to limited resources, we could only pull the process execution logs with 

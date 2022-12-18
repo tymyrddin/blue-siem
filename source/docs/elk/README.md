@@ -1,4 +1,4 @@
-| ![Investigating with ELK 101](../../_static/images/benign-room-banner.png)
+| ![Investigating with ELK 101](../../_static/images/benign-room-banner.png) |
 |:--:|
 | [THM Room: Investigating with ELK 101](https://tryhackme.com/room/investigatingwithelk101) |
 

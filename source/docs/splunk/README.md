@@ -1,4 +1,4 @@
-| ![Splunk Basics](../../_static/images/splunk1-room-banner.png)
+| ![Splunk Basics](../../_static/images/splunk1-room-banner.png) |
 |:--:|
 | [THM Room: Splunk Basics](https://tryhackme.com/room/splunk101) |
 
