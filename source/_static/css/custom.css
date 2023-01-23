@@ -42,3 +42,110 @@ a:hover {
 .rst-content code.literal, .rst-content tt.literal {
   color: #0066DD;
 }
+
+/* Breadcrumbs as navbar
+***********************************/
+
+/* Caslon font faces */
+
+@font-face {
+    font-family: 'caslon_antiqueregular';
+    src: url('caslonantique-webfont.woff2') format('woff2'),
+         url('caslonantique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caslon_antiquebolditalic';
+    src: url('caslonantique-bolditalic-webfont.woff2') format('woff2'),
+         url('caslonantique-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caslon_antiqueitalic';
+    src: url('caslonantique-italic-webfont.woff2') format('woff2'),
+         url('caslonantique-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caslon_antiquebold';
+    src: url('caslonantique-bold-webfont.woff2') format('woff2'),
+         url('caslonantique-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+topnav {
+  font-family: 'caslon_antiquebold', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size: 0.9rem;
+
+}
+
+topnav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+}
+
+@media screen and (min-width: 800px) {
+  topnav ul {
+    justify-content: space-between;
+  }
+}
+
+.nav__link, .nav__link:visited {
+  text-decoration: none !important;
+  font-size: 0.7rem;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.nav__item + .nav__item {
+  margin-left: 0.1rem;
+}
+
+@media screen and (min-width: 800px) {
+    .nav__link, .nav__link:visited {
+        font-size: 0.9rem;
+    }
+
+    .nav__item + .nav__item {
+        margin-left: 1rem;
+    }
+}
+
+.wy-nav-content {
+  padding-top: 1rem;
+}
+
+.icon {
+  text-transform: uppercase;
+  font-family: 'caslon_antiquebold', Arial, sans-serif;
+  font-size: 0.9rem;
+  background: transparent;
+}
+
+.wy-body-for-nav {
+  background-image: url('../images/site/background.png');
+}
+
+.wy-nav-side {
+  background-image: url('../images/site/background.png');
+}
+
+.wy-side-nav-search {
+  background-image: url('../images/site/background.png');
+}

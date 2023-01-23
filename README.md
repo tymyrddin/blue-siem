@@ -3,6 +3,8 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
+[![Documentation Status](https://readthedocs.org/projects/blue-siem/badge/?version=latest)](https://blue.tymyrddin.dev/projects/siem/en/latest/?badge=latest)
+
 ## Requirements
 
 * sphinx — sphinx package
