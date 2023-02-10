@@ -1,7 +1,7 @@
 Security information and event management
 =====================================================================
 
-SIEM and search queries to look for specific answers from the ingested logs.
+Security information and event management (SIEM) and search queries to look for specific answers from the ingested logs.
 
 .. toctree::
    :glob:
@@ -62,8 +62,3 @@ SIEM and search queries to look for specific answers from the ingested logs.
    docs/bots/200.md
    docs/bots/300.md
    docs/bots/400.md
-
-.. toctree::
-   :caption: Links
-
-   Blue Team <https://blue.tymyrddin.dev/>

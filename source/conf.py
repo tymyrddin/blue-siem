@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Security information and event management'
+project = 'Security information and event management (SIEM)'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 release = '0.1'
@@ -44,6 +44,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
+    'logo_only': True,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': False,
@@ -52,7 +53,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Security information and event management"
+html_title = "Security information and event management (SIEM)"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
