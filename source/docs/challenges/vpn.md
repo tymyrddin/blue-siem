@@ -1,10 +1,6 @@
-# Adding data
+# VPN logs
 
-Splunk can ingest any data. As per the Splunk documentation, when data is added to Splunk, the data is processed and transformed into a series of individual events. 
-
-The data sources can be event logs, website logs, firewall logs, etc. Data sources are grouped into categories. 
-
-Upload the `VPN_logs` data and create an index `VPN_Logs`. 
+Upload the `VPN_logs` data in Splunk, and create an index `VPN_Logs`. 
 
 **How many events are present in the log file?**
 

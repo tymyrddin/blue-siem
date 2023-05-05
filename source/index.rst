@@ -1,27 +1,21 @@
 Security information and event management
 =====================================================================
 
-Security information and event management (SIEM) and search queries to look for specific answers from the ingested logs.
+Security information and event management (SIEM) and search queries to look for specific answers from ingested logs.
+
+----
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: ELK
+   :caption: Testlab
 
-   docs/elk/README.md
-   docs/elk/stack.md
+   Security information and event management tools <https://blue.tymyrddin.dev/projects/testlab/en/latest/docs/siem/README.html>
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Splunk basics
+----
 
-   docs/splunk/README.md
-   docs/splunk/components.md
-   docs/splunk/navigation.md
-   docs/splunk/data.md
+TryHackMe rooms
+-------------------------------------
 
 .. toctree::
    :glob:
@@ -46,6 +40,7 @@ Security information and event management (SIEM) and search queries to look for 
    :caption: Challenges
 
    docs/challenges/README.md
+   docs/challenges/vpn.md
    docs/challenges/itsybitsy.md
    docs/challenges/investigation.md
    docs/challenges/benign.md
