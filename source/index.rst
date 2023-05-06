@@ -3,6 +3,10 @@ Security information and event management
 
 Security information and event management (SIEM) and search queries to look for specific answers from ingested logs.
 
+
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
 ----
 
 .. toctree::
