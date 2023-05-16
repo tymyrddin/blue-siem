@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-siem/badge/?version=latest)](https://blue.tymyrddin.dev/projects/siem/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93fbe769-705f-41d0-b2d2-6fdef159da71/deploy-status)](https://app.netlify.com/sites/musical-cannoli-4012cc/deploys)
 
 ## Requirements
 
