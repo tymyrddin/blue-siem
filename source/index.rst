@@ -14,7 +14,7 @@ Security information and event management (SIEM) and search queries to look for 
    :includehidden:
    :caption: Testlab
 
-   Security information and event management tools <https://blue.tymyrddin.dev/projects/testlab/en/latest/docs/siem/README.html>
+   Security information and event management tools <https://testlab.tymyrddin.dev/docs/siem/README>
 
 ----
 
