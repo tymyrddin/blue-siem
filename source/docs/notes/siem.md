@@ -11,3 +11,5 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 * A data collector forwarding selected audit logs from a host (agent based or host based log streaming into index and aggregation point)
 * An aggregation point for parsing, correlation, and data normalisation.
 * A search node used for visualisation, queries, reports, and alerts (actual analysis takes place on a search node)
+
+Key elements for a SIEM stack: All tools in [this playlist](https://www.youtube.com/playlist?list=PLB6hQ_WpB6U0WeroZAfssgRpxW8olnkqy) are open source and free. Watching this playlist is highly informative. 

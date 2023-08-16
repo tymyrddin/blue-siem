@@ -13,4 +13,3 @@ Worth keeping/remembering.
 * [Security information and event management](siem.md)
 * [Threat hunting](siem.md)
 
-
