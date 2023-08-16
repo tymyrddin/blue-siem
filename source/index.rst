@@ -1,8 +1,7 @@
 Security information and event management
 =====================================================================
 
-Security information and event management (SIEM) and search queries to look for specific answers from ingested logs.
-
+These are notes and challenges on security information and event management (SIEM) and threat hunting. Threat hunting is complementary to the standard process of incident detection, response, and remediation, and is the practice of proactively searching for cyber threats that may be hidden in a network.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -15,11 +14,21 @@ Security information and event management (SIEM) and search queries to look for 
    :caption: Testlab
 
    Security information and event management tools <https://testlab.tymyrddin.dev/docs/siem/README>
+   Threat intelligence tools <https://testlab.tymyrddin.dev/docs/cti/README>
+   Threat hunting tools <https://testlab.tymyrddin.dev/docs/hunting/README>
 
 ----
 
-TryHackMe rooms
--------------------------------------
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Notes
+
+   docs/notes/README.md
+   docs/notes/siem.md
+   docs/notes/hunting.md
+
+----
 
 .. toctree::
    :glob:
@@ -37,17 +46,32 @@ TryHackMe rooms
    docs/incident/weaponise.md
    docs/incident/deliver.md
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Challenges
+   :caption: CyberDefenders challenges
+
+   docs/cd/README.md
+   docs/cd/cybercorp2.md
+
+----
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: TryHackMe challenges
 
    docs/challenges/README.md
    docs/challenges/vpn.md
    docs/challenges/itsybitsy.md
    docs/challenges/investigation.md
    docs/challenges/benign.md
+
+----
 
 .. toctree::
    :glob:
