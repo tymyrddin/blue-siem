@@ -30,6 +30,8 @@ By analyzing the EDR telemetry in the Threat Hunting platform, you will have to 
 
 ![Kibana start](../../_static/images/cybercorp2-1.png)
 
+----
+
 ## Questions
 
 ***Q1 The Threat Hunting process usually starts with the analyst making a hypothesis about a possible compromise vector or techniques used by an attacker. In this scenario, your initial hypothesis is as follows: "The attacker used the WMI subscription mechanism to obtain persistence within the infrastructure". Verify this hypothesis and find the name of the WMI Event Consumer used by the attacker to maintain his foothold. Sample answer: Consumer***
