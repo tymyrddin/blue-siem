@@ -1,4 +1,4 @@
-# Security information and event management
+# SIEM stack
 
 Security information and event management (SIEM) is an approach to security management that combines security information management (SIM) and security event management (SEM) functions into one security management system.
 
@@ -13,6 +13,8 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 * A search node used for visualisation, queries, reports, and alerts (actual analysis takes place on a search node)
 
 ## SIEM stack requirements
+
+[![SIEM stack](../../_static/images/siem-stack.png)](https://socfortress.medium.com/build-your-own-siem-stack-with-open-source-tools-series-39da0f2d412a)
 
 ### Log ingestion
 

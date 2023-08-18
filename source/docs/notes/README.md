@@ -10,6 +10,6 @@ Worth keeping/remembering.
 
 ## How?
 
-* [Security information and event management](siem.md)
+* [SIEM stack](siem.md)
 * [Threat hunting](siem.md)
 
