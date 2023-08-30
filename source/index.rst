@@ -18,6 +18,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    Security information and event management tools <https://testlab.tymyrddin.dev/docs/siem/README>
    Threat intelligence tools <https://testlab.tymyrddin.dev/docs/cti/README>
    Threat hunting tools <https://testlab.tymyrddin.dev/docs/hunting/README>
+   Vulnerability management tools <https://testlab.tymyrddin.dev/docs/tvm/README>
 
 ----
 
