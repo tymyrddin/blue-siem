@@ -113,5 +113,8 @@ Threat hunting is complementary to the standard process of incident detection, r
 
 ----
 
+Books
+---------------------------
+
 .. image:: _static/images/threat-management-books.png
   :alt: Useful books
