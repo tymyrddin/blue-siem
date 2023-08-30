@@ -11,5 +11,5 @@ Worth keeping/remembering.
 ## How?
 
 * [SIEM stack](siem.md)
-* [Threat hunting](siem.md)
+* [Threat hunting](hunting.md)
 

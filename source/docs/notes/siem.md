@@ -70,4 +70,6 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 * Monitor services/process whose stoppage would cause operational impact
 * Ability to alert in real-time when health check thresholds are met
 
-[Key elements for a SIEM stack](https://www.youtube.com/playlist?list=PLB6hQ_WpB6U0WeroZAfssgRpxW8olnkqy): All tools in this playlist are open source and free. Watching this playlist is highly informative. 
+## Testlab
+
+* [SIEM stack](https://testlab.tymyrddin.dev/docs/siem/readme) All tools in this stack are open source and free. 
