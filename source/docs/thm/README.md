@@ -15,5 +15,5 @@ Practice.
 * [Investigating with Splunk](investigation.md)
 * [Benign](benign.md)
 * [CaddyWiper and APT37](caddywiper.md)
-
+* [Zerologon](zerologon.md)
 

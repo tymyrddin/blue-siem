@@ -1,7 +1,7 @@
 Security information and event management
 =====================================================================
 
-These are notes and challenges on security information and event management (SIEM), threat intelligence and management, and on threat hunting.
+These are notes and challenges on security information and event management (SIEM), vulnerability management, threat intelligence and management, and on threat hunting.
 
 Threat hunting is complementary to the standard process of incident detection, response, and remediation, and is the practice of proactively searching for cyber threats that may be hidden in a network.
 
@@ -64,6 +64,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    docs/thm/investigation.md
    docs/thm/benign.md
    docs/thm/caddywiper.md
+   docs/thm/zerologon.md
 
 ----
 
@@ -108,3 +109,8 @@ Threat hunting is complementary to the standard process of incident detection, r
    docs/resources/blogs.md
    docs/resources/reports.md
    docs/resources/markets.md
+
+----
+
+.. image:: _static/images/threat-management-books.png
+  :alt: Useful books
