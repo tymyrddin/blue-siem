@@ -1,4 +1,4 @@
-# Standards
+# Standards of communication
 
 Standardisation of communication on evidence-based information includes:
 

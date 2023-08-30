@@ -18,7 +18,7 @@ Worth keeping/remembering.
 * [Unified kill chain](ukc.md)
 * [Diamond model](diamond.md)
 * [Incident handling (NIST)](nist.md)
-* [Standards](standards.md)
+* [Standards of communication](standards.md)
 * [SIEM stack](siem.md)
 * [Threat hunting](hunting.md)
 

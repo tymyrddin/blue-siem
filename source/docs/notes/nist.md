@@ -16,6 +16,8 @@ Consider contact information (email addresses, phone numbers, on-call informatio
 
 Best is to also secure incident reporting mechanisms, an issue-tracking system, and smartphones to facilitate out-of-hours offsite and onsite communications. Encryption software can help secure communications with external parties. A so-called "war room" can be used as a base for these communications.
 
+[Standardisation of communication on evidence-based information](standards.md) is also in progress.
+
 ### Containment strategies
 
 Decision-making is key to containment and is made easier by following documented procedures for specific types of incidents. NIST advises defining acceptable risks to develop strategies for containment. Strategies can be based on incident types; A few examples of considerations:
