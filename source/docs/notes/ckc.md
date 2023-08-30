@@ -1,7 +1,7 @@
 # Cyber kill chain
 
-| ![Cyber Kill Chain](../../_static/images/cyber-kill-chain.png) |
-|:--:|
+|                     ![Cyber Kill Chain](../../_static/images/cyber-kill-chain.png)                      |
+|:-------------------------------------------------------------------------------------------------------:|
 | The Cyber Kill Chain framework is designed for identification and prevention of the network intrusions. |
 
 Lockheed Martin established the Cyber Kill Chain® framework for the cybersecurity industry in 2011 based on the 

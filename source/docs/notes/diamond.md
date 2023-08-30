@@ -2,8 +2,8 @@
 
 The diamond model of intrusion analysis is an approach to authenticate and track cyber threats. In this approach, every incident is depicted as a diamond. The methodology underlines the relationships and characteristics of four components of the diamond: adversary, capability, infrastructure, and victim. These four core elements are connected in relationship between each other which can then be analytically examined to further uncover insights and gain knowledge of malicious activities. 
 
-| ![Empire's capabilities](../../_static/images/starwars-diamond.png)
-|:--:|
+|                ![Empire's capabilities](../../_static/images/starwars-diamond.png)                 |
+|:--------------------------------------------------------------------------------------------------:|
 | Empire’s capabilities and infrastructure, as well as the dependencies or tactics that enable them. |
 
 The diamond model of intrusion analysis illustrates that an `adversary` uses a `capability` over an `infrastructure` against a `victim`.
