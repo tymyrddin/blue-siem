@@ -29,9 +29,9 @@ Metadata command:
 
     | metadata type=sourcetypes index=botsv2 | eval firstTime=strftime(firstTime,"%Y-%m-%d %H:%M:%S") | eval lastTime=strftime(lastTime,"%Y-%m-%d %H:%M:%S") | eval recentTime=strftime(recentTime,"%Y-%m-%d %H:%M:%S") | sort - totalCount
 
-| ![Splunk Metadata](../../_static/images/splunk-metadata.png)
-|:--:|
-| All Time. Set it to OTHER:ALL TIME |
+| ![Splunk Metadata](../../_static/images/splunk-metadata.png) |
+|:------------------------------------------------------------:|
+|              All Time. Set it to OTHER:ALL TIME              |
 
 ## Resources
 

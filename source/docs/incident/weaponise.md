@@ -11,6 +11,8 @@ In the weaponisation phase, the adversaries would:
 
 Use OSINT to find out more about the attacker.
 
+## Tools used
+
 * [Robtex](https://www.robtex.com/) is a Threat Intel site that provides information about IP addresses, domain names, etc. 
 * [ThreatCrowd](https://www.threatcrowd.org/) is a Search Engine for Threats that provides intel based on the IP, domain, email address, etc.
 * [Virustotal](https://www.virustotal.com/) is an OSINT site used to analyze suspicious files, domains, IP, etc.
@@ -25,9 +27,9 @@ Use OSINT to find out more about the attacker.
 **Based on the data gathered from this attack and common open-source intelligence sources for domain names, what is 
 the email address that is most likely associated with the `P01s0n1vy` APT group?**
 
-| ![image](../../_static/images/splunk-wayne14.png)
-|:--:|
-| `lillian.rose@po1s0nvy.com` |
+| ![image](../../_static/images/splunk-wayne14.png) |
+|:-------------------------------------------------:|
+|            `lillian.rose@po1s0nvy.com`            |
 
 
 

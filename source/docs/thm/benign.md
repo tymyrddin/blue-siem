@@ -49,7 +49,7 @@ Answer: `Chris.fort`
 
 **Which user from the HR department executed a system process (LOLBIN) to download a payload from a file-sharing host.**
 
-| ![user](../../_static/images/splunkbenign1.png)
+| ![user](../../_static/images/splunkbenign1.png) |
 |:--:|
 | `haroon` |
 
@@ -77,9 +77,9 @@ Answer: `benign.exe`
 
 **The suspicious file downloaded from the C2 server contained malicious content with the pattern THM{..........}; what is that pattern?**
 
-| ![user](../../_static/images/splunkbenign2.png)
-|:--:|
-| `THM{KJ&*H^B0}` |
+| ![user](../../_static/images/splunkbenign2.png) |
+|:-----------------------------------------------:|
+|                 `THM{KJ&*H^B0}`                 |
 
 **What is the URL that the infected host connected to?**
 

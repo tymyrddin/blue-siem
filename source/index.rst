@@ -1,7 +1,9 @@
 Security information and event management
 =====================================================================
 
-These are notes and challenges on security information and event management (SIEM) and threat hunting. Threat hunting is complementary to the standard process of incident detection, response, and remediation, and is the practice of proactively searching for cyber threats that may be hidden in a network.
+These are notes and challenges on security information and event management (SIEM), threat intelligence and management, and on threat hunting.
+
+Threat hunting is complementary to the standard process of incident detection, response, and remediation, and is the practice of proactively searching for cyber threats that may be hidden in a network.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -25,6 +27,8 @@ These are notes and challenges on security information and event management (SIE
    :caption: Notes
 
    docs/notes/README.md
+   docs/notes/standards.md
+   docs/notes/frameworks.md
    docs/notes/siem.md
    docs/notes/hunting.md
 
@@ -34,7 +38,7 @@ These are notes and challenges on security information and event management (SIE
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Splunk incident handling
+   :caption: Incident handling with Splunk
 
    docs/incident/README.md
    docs/incident/scenario.md
@@ -52,10 +56,14 @@ These are notes and challenges on security information and event management (SIE
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: CyberDefenders challenges
+   :caption: TryHackMe challenges
 
-   docs/cd/README.md
-   docs/cd/cybercorp2.md
+   docs/thm/README.md
+   docs/thm/vpn.md
+   docs/thm/itsybitsy.md
+   docs/thm/investigation.md
+   docs/thm/benign.md
+   docs/thm/caddywiper.md
 
 ----
 
@@ -63,13 +71,14 @@ These are notes and challenges on security information and event management (SIE
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: TryHackMe challenges
+   :caption: CyberDefenders challenges
 
-   docs/challenges/README.md
-   docs/challenges/vpn.md
-   docs/challenges/itsybitsy.md
-   docs/challenges/investigation.md
-   docs/challenges/benign.md
+   docs/cd/README.md
+   docs/cd/grabthefisher.md
+   docs/cd/lespion.md
+   docs/cd/intel101.md
+   docs/cd/casevegas.md
+   docs/cd/cybercorp2.md
 
 ----
 
@@ -85,3 +94,17 @@ These are notes and challenges on security information and event management (SIE
    docs/bots/200.md
    docs/bots/300.md
    docs/bots/400.md
+
+----
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Resources
+
+   docs/resources/README.md
+   docs/resources/maps.md
+   docs/resources/feeds.md
+   docs/resources/blogs.md
+   docs/resources/reports.md
+   docs/resources/markets.md

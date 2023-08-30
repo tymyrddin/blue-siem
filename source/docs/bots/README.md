@@ -1,12 +1,8 @@
-| ![Splunk Boss of the SOC](../../_static/images/splunk2-room-banner.png) |
-|:--:|
-| [THM Room: BOTSv2](https://tryhackme.com/room/splunk2gcd5) |
-
 # Introduction
 
 ## What?
 
-Version 2 of the Boss of the SOC (BOTS) competition by Splunk.
+[THM Room: BOTSv2](https://tryhackme.com/room/splunk2gcd5): Version 2 of the Boss of the SOC (BOTS) competition by Splunk.
 
 ## Why?
 

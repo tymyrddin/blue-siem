@@ -17,9 +17,9 @@ Add `alert` fields and use:
 
     index=botsv1 imreallynotbatman.com src_ip="40.80.148.42" sourcetype=suricata "alert.category"="Attempted Administrator Privilege Gain"
 
-| ![CVE](../../_static/images/splunk-wayne1.png)
-|:--:|
-| `CVE-2014-6271` |
+| ![CVE](../../_static/images/splunk-wayne1.png) |
+|:----------------------------------------------:|
+|                `CVE-2014-6271`                 |
 
 See [CVE-2014-6271 Detail](https://nvd.nist.gov/vuln/detail/CVE-2014-6271), basically, 
 [ShellShock](https://www.yeahhub.com/shellshock-vulnerability-exploitation-metasploit-framework/).
@@ -28,21 +28,21 @@ See [CVE-2014-6271 Detail](https://nvd.nist.gov/vuln/detail/CVE-2014-6271), basi
 
     index=botsv1 imreallynotbatman.com sourcetype=stream:http
 
-| ![CMS](../../_static/images/splunk-wayne2.png)
-|:--:|
-| `joomla` |
+| ![CMS](../../_static/images/splunk-wayne2.png) |
+|:----------------------------------------------:|
+|                    `joomla`                    |
 
 **What is the web scanner the attacker used to perform the scanning attempts?**
 
-| ![Scanner](../../_static/images/splunk-wayne3.png)
-|:--:|
-| `acunetix` |
+| ![Scanner](../../_static/images/splunk-wayne3.png) |
+|:--------------------------------------------------:|
+|                     `acunetix`                     |
 
 **What is the IP address of the server `imreallynotbatman.com`?**
 
-| ![dest](../../_static/images/splunk-wayne1.png)
-|:--:|
-| `192.168.250.70` |
+| ![dest](../../_static/images/splunk-wayne1.png) |
+|:-----------------------------------------------:|
+|                `192.168.250.70`                 |
 
 
 

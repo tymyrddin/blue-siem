@@ -36,21 +36,21 @@ Leverage `sysmon` and look at the `EventCode=1` for program execution:
 
 **Sysmon also collects the Hash value of the processes being created. What is the `MD5` hash of the program `3791.exe`?**
 
-| ![MD5](../../_static/images/splunk-wayne7.png)
-|:--:|
-| `AAE3F5A29935E6ABCC2C2754D12A9AF0` |
+| ![MD5](../../_static/images/splunk-wayne7.png) |
+|:----------------------------------------------:|
+|       `AAE3F5A29935E6ABCC2C2754D12A9AF0`       |
 
 **Looking at the logs, which user executed the program `3791.exe` on the server?**
 
-| ![user](../../_static/images/splunk-wayne8.png)
-|:--:|
-| `NT AUTHORITY\IUSR` |
+| ![user](../../_static/images/splunk-wayne8.png) |
+|:-----------------------------------------------:|
+|               `NT AUTHORITY\IUSR`               |
 
 **Search the hash on the virustotal. What other name is associated with this file `3791.exe`?**
 
-| ![VT](../../_static/images/splunk-wayne9.png)
-|:--:|
-| `ab.exe` |
+| ![VT](../../_static/images/splunk-wayne9.png) |
+|:---------------------------------------------:|
+|                   `ab.exe`                    |
 
 
 

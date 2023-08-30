@@ -1,12 +1,8 @@
-| ![Incident handling with Splunk](../../_static/images/benign-room-banner.png) |
-|:--:|
-| [THM Room: Incident handling with Splunk](https://tryhackme.com/room/splunk201) |
-
 # Introduction
 
 ## What?
 
-Incident handling.
+[Incident handling](https://tryhackme.com/room/splunk201).
 
 ## Why?
 

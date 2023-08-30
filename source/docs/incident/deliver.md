@@ -22,14 +22,14 @@ correlate the information found in the logs with various threat Intel sources.
 
 **What is the HASH of the Malware associated with the APT group?**
 
-| ![hash](../../_static/images/splunk-wayne11.png)
-|:--:|
-| `c99131e0169171935c5ac32615ed6261` |
+| ![hash](../../_static/images/splunk-wayne11.png) |
+|:------------------------------------------------:|
+|        `c99131e0169171935c5ac32615ed6261`        |
 
 **What is the name of the Malware associated with the Poison Ivy Infrastructure?**
 
-| ![malware name](../../_static/images/splunk-wayne12.png)
-|:--:|
-| `MirandaTateScreensaver.scr.exe` |
+| ![malware name](../../_static/images/splunk-wayne12.png) |
+|:--------------------------------------------------------:|
+|             `MirandaTateScreensaver.scr.exe`             |
 
 

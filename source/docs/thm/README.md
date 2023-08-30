@@ -1,12 +1,8 @@
-| ![Investigating with Splunk](../../_static/images/benign-room-banner.png) |
-|:--:|
-| Challenges |
-
 # Introduction
 
 ## What?
 
-Challenges.
+[TryHackMe](https://tryhackme.com/) challenges.
 
 ## Why?
 
@@ -18,5 +14,6 @@ Practice.
 * [ItsyBitsy](itsybitsy.md)
 * [Investigating with Splunk](investigation.md)
 * [Benign](benign.md)
+* [CaddyWiper and APT37](caddywiper.md)
 
 

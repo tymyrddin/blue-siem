@@ -14,7 +14,7 @@ Threat hunters assume that adversaries are already in the system, and look for u
 2. Investigations based on known Indicators of Compromise (IoC) or Indicators of Attack (IoA) use tactical threat intelligence to catalog  known IOCs and IOAs associated with new threats as triggers for threat hunters use to discover hidden attacks or malicious activity.
 3. Advanced analytics and machine learning investigations sift through massive amounts of information to detect irregularities that may suggest potential malicious activity. These become hunting leads for analysts to identify new threats.
 
-In all cases, [threat intelligence resources](https://cti.tymyrddin.dev/) are combined with advanced security technology.
+In all cases, threat intelligence resources are combined with advanced security technology.
 
 ## Threat hunting steps
 

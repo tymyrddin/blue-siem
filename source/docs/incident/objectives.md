@@ -33,9 +33,9 @@ The end result shows `poisonivy-is-coming-for-you-batman.jpeg` was downloaded fr
 
 **What is the name of the file that defaced the `imreallynotbatman.com` website?**
 
-| ![image](../../_static/images/splunk-wayne10.png)
-|:--:|
-| `poisonivy-is-coming-for-you-batman.jpeg` |
+| ![image](../../_static/images/splunk-wayne10.png) |
+|:-------------------------------------------------:|
+|     `poisonivy-is-coming-for-you-batman.jpeg`     |
 
 Fortigate Firewall `fortigate_utm` detected SQL attempt from the attacker's IP `40.80.148.42`. 
 **What is the name of the rule that was triggered during the SQL Injection attempt?**
@@ -44,9 +44,9 @@ Fortigate Firewall `fortigate_utm` detected SQL attempt from the attacker's IP `
 
 Add the `attack` field to the fields and:
 
-| ![image](../../_static/images/splunk-wayne14.png)
-|:--:|
-| `HTTP.URI.SQL.Injection` |
+| ![image](../../_static/images/splunk-wayne14.png) |
+|:-------------------------------------------------:|
+|             `HTTP.URI.SQL.Injection`              |
 
 
 
