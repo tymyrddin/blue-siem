@@ -156,3 +156,5 @@ With hands-on keyboard access, attackers can achieve the following:
 
 ## Resources
 
+* [Lockheed Martin: Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+* [Purple Team Exercise Framework (PTEF)](https://github.com/scythe-io/purple-team-exercise-framework/)

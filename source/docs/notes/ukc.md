@@ -11,3 +11,4 @@ By using these two frameworks and comparing IOCs simultaneously against several 
 ## Resources
 
 * [The Unified Kill Chain](https://unifiedkillchain.com/)
+* [Purple Team Exercise Framework (PTEF)](https://github.com/scythe-io/purple-team-exercise-framework/)
