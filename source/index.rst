@@ -28,8 +28,15 @@ Threat hunting is complementary to the standard process of incident detection, r
    :caption: Notes
 
    docs/notes/README.md
+   docs/notes/prevention.md
+   docs/notes/til.md
+   docs/notes/pop.md
+   docs/notes/ckc.md
+   docs/notes/mitre.md
+   docs/notes/ukc.md
+   docs/notes/diamond.md
+   docs/notes/nist.md
    docs/notes/standards.md
-   docs/notes/frameworks.md
    docs/notes/siem.md
    docs/notes/hunting.md
 
@@ -39,7 +46,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Incident handling with Splunk
+   :caption: An investigation with Splunk
 
    docs/incident/README.md
    docs/incident/scenario.md

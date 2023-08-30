@@ -2,7 +2,7 @@
 
 ## What?
 
-[Incident handling](https://tryhackme.com/room/splunk201).
+An investigation with [Splunk](https://tryhackme.com/room/splunk201) and the [Cyber kill chain](../notes/ckc.md) as framework.
 
 ## Why?
 
