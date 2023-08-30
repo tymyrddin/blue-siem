@@ -9,8 +9,6 @@ only the connection logs could be pulled out and are ingested into the `connecti
 
 Examine the network connection logs of this user, find the link and the content of the file, and answer the questions.
 
-`Unable to connect ... will do later.`
-
 ## Questions
 
 **How many events were returned for the month of March 2022?**

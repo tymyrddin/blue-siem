@@ -57,7 +57,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: TryHackMe challenges
+   :caption: TryHackMe rooms
 
    docs/thm/README.md
    docs/thm/vpn.md
