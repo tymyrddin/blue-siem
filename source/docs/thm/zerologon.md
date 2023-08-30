@@ -1,9 +1,5 @@
 # Zerologon
 
-| [![Zer0login THM Room](../../_static/images/zerologon-tryhackme.png)](https://tryhackme.com/room/zer0logon) |
-|:-----------------------------------------------------------------------------------------------------------:|
-|                [https://tryhackme.com/room/zer0logon]                 |
-
 On September 14, Secura released a whitepaper for [CVE-2020-1472](https://nvd.nist.gov/vuln/detail/CVE-2020-1472), 
 that allowed an attacker to go from Zero to Domain Admin in approximately one minute. They dubbed this vulnerability Zero Logon.
 
@@ -14,7 +10,7 @@ specific, Microsoft chose to use `AES-CFB8` for a function called `ComputeNetlog
 except they had hard coded the `Initialization Vector` to use all zeros instead of a random string. When an attacker 
 sends a message only containing zeros with the IV of zero, there is a 1-in-256 chance that the Ciphertext will be Zero.
 
-In [this room]((https://tryhackme.com/room/zer0logon), the ZeroLogon vulnerability is approached from a "Proof of Concept" (PoC) emphasis, providing a 
+In [this room](https://tryhackme.com/room/zer0logon), the ZeroLogon vulnerability is approached from a "Proof of Concept" (PoC) emphasis, providing a 
 breakdown of the vulnerable method within this issue. TryHackMe does not condone illegal actions taken on the part of 
 an individual (or group).
 
