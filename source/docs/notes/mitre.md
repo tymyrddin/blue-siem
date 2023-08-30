@@ -54,4 +54,4 @@ These are techniques used by attackers to disturb or compromise networks’ inte
 ## Resources
 
 * [MITRE ATT&CK®](https://attack.mitre.org/)
-* [Cyber Kill Chain, MITRE ATT&CK, and Purple Team](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
+* [Purple Team Exercise Framework (PTEF)](https://github.com/scythe-io/purple-team-exercise-framework/)
