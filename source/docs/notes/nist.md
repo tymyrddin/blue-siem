@@ -94,3 +94,10 @@ In general, it is best practice to focus on the critical security issues, and so
 ## Post-incident activity
 
 The final phase of the incident response life cycle is to perform a postmortem of the entire incident: What lessons have been learned to improve incident security protocols and make security strategies more robust and effective. The incident data and any evidence that has been recorded or documented is also collected. If a court case is opened, these become important.
+
+## Resources
+
+* [Computer security incident handling guide (Special Publication 800-61, Revision 2, pdf)](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf), Cichonski, P., Millar, T., Grance, T.., & Scarfone, K., 2012, National Institute of Standards & Technology
+* [NIST incident response plan: Building your own IR process based on NIST guidelines](https://www.cynet.com/incident-response/nist-incident-response/), Cynet, 2022, Incident Response
+* [Three ways to improve your security incident response plan](https://www.himss.org/resources/three-ways-improve-your-security-incident-response-plan), HIMSS, 2022, Cybersecurity and Privacy Resource Center
+* [Microsoft security incident management](https://learn.microsoft.com/en-us/compliance/assurance/assurance-security-incident-management), Mazzoli, R., Gluck, D., 2021, Risk Assessment Guide for Microsoft Cloud

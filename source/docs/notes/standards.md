@@ -1,6 +1,6 @@
 # Standards of communication
 
-Standardisation of communication on evidence-based information includes:
+Standardisation of communication on evidence-based information currenly includes:
 
 * Mechanisms of an attack
 * How to detect an attack

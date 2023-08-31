@@ -54,4 +54,5 @@ These are techniques used by attackers to disturb or compromise networks’ inte
 ## Resources
 
 * [MITRE ATT&CK®](https://attack.mitre.org/)
+* [Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)
 * [Purple Team Exercise Framework (PTEF)](https://github.com/scythe-io/purple-team-exercise-framework/)

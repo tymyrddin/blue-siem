@@ -84,3 +84,4 @@ you force them to do the most time-consuming thing possible: learn new behaviour
 ## Resources
 
 * [The Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+* [SSDeep project](https://ssdeep-project.github.io/ssdeep/index.html)
