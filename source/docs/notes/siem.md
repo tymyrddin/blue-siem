@@ -74,7 +74,9 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 
 Gradually building up to something useful for the IPA project:
 
-* [Wazuh single-node stack with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-single-node), bare-bones single-node deployment: One Wazuh manager, indexer, and dashboard node.
+* [Wazuh single-node deployment with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-single-node), bare-bones single-node deployment: One Wazuh manager, indexer, and dashboard node.
+* [Wazuh multi-node deployment with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-multi-node.md), two Wazuh manager nodes (one master and one worker), three Wazuh indexer nodes, and a Wazuh dashboard node.
+* [Building Wazuh images](https://testlab.tymyrddin.dev/docs/siem/wazuh-images.md) for making changes for the IPA project.
 
 ## Testlab
 
