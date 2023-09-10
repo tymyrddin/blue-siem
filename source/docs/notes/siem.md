@@ -72,4 +72,10 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 
 ## Testlab
 
-* [SIEM stack](https://testlab.tymyrddin.dev/docs/siem/readme) All tools in this stack are open source and free. 
+Gradually building up to something useful for the IPA project:
+
+* [Wazuh single-node stack with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-single-node), bare-bones single-node deployment: One Wazuh manager, indexer, and dashboard node.
+
+## Testlab
+
+* [SIEM stack](https://testlab.tymyrddin.dev/docs/siem/readme) All tools in these stacks are open source and free. 
