@@ -21,6 +21,7 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 * Collect logs originating on endpoint devices, network devices, or 3rd party services
 * Normalise log fields to universal names for faster searching and better visualisations
 * Ensure caching of logs if backend storage is busy or offline
+* Ability to ingest mobile logs
 
 ### Log analysis
 
