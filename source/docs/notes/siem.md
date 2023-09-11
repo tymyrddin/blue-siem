@@ -74,9 +74,15 @@ Many SIEM tools exist, Kibana, Splunk, Elastic SIEM, Datadog, QRadar, UnderDefen
 
 Gradually building up to something useful for the IPA project:
 
+### Wazuh
+
 * [Wazuh single-node deployment with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-single-node), bare-bones single-node deployment: One Wazuh manager, indexer, and dashboard node.
 * [Wazuh multi-node deployment with docker](https://testlab.tymyrddin.dev/docs/siem/wazuh-multi-node), two Wazuh manager nodes (one master and one worker), three Wazuh indexer nodes, and a Wazuh dashboard node.
 * [Building Wazuh images](https://testlab.tymyrddin.dev/docs/siem/wazuh-images) for making changes for the IPA project.
+
+Wazuh agents can easily be installed on endpoints such as laptops, desktops, servers, cloud instances, or virtual machines. For mobile endpoints, [Android syslogs can be forwarded to Wazuh](https://wazuh.com/blog/how-to-forward-android-syslog-to-wazuh/), but iOS and iPad are still a problem. A [stackoverflow answer from 12 years ago](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal/19148654#19148654) suggests using the [libimobiledevice](https://libimobiledevice.org/) library, which supports wirelessly viewing an iOS device's syslog, making it possible to send the devices' logs via the local network to a Mac, and with something like that it would be possible to run a script that forwards the logs to the Wazuh Manager. Meaning it is only monitored when in reach of the Mac, and the connection is not secured. Other than that, sending the logs directly from the device to a Wazuh Manager over a secured connection is (technically) possible, but requires development of an iOS native application. I haven't found any such proposal on any roadmaps (yet).
+
+Still, the Wazuh installations were exercise, and Wazuh is easy to install and use.
 
 ## Testlab
 
