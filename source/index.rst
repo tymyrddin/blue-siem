@@ -46,6 +46,16 @@ Threat hunting is complementary to the standard process of incident detection, r
    :glob:
    :maxdepth: 1
    :includehidden:
+   :caption: Code
+
+   Developing IPA project SIEM Stack <https://github.com/tymyrddin/ipa-siem-stack>
+
+----
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
    :caption: An investigation with Splunk
 
    docs/incident/README.md
