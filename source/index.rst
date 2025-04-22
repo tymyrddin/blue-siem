@@ -48,7 +48,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    :includehidden:
    :caption: Code
 
-   Developing IPA project SIEM Stack <https://github.com/tymyrddin/ipa-siem-stack>
+   BGP Hijack Monitor for Wazuh (Mock Mode) <https://github.com/ninabarzh/bgp-wazuh-monitor/tree/main>
 
 ----
 
