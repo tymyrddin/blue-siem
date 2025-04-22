@@ -48,7 +48,7 @@ Threat hunting is complementary to the standard process of incident detection, r
    :includehidden:
    :caption: Code
 
-   BGP Hijack Monitor for Wazuh (Mock Mode) <https://github.com/ninabarzh/bgp-wazuh-monitor/tree/main>
+   Security Detectors for Wazuh (Mock Mode) <https://github.com/ninabarzh/security-wazuh-monitor>
 
 ----
 
