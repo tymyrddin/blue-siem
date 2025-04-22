@@ -13,7 +13,7 @@ Threat hunting is complementary to the standard process of incident detection, r
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Testlab
+   :caption: Tools @Testlab
 
    Security information and event management tools <https://testlab.tymyrddin.dev/docs/siem/README>
    Threat intelligence tools <https://testlab.tymyrddin.dev/docs/cti/README>
